@@ -41,7 +41,8 @@ class Dog
     dog
   end
 
-  def self.create_table
+  def self.create
+
   end
 
 end
