@@ -62,10 +62,8 @@ class Dog
       dog = self.create(name:, breed:)
     end
     dog
-  end 
-
-
   end
+end
 
   # def self.new_from_db(row)
   #   id = row[0]
