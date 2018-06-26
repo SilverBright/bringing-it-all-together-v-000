@@ -9,5 +9,8 @@ class Dog
     @breed = breed
   end
 
+  def self.create_table
+
+  end
 
 end
